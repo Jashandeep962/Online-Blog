@@ -58,7 +58,7 @@ Constructor overloading :- like meathod constroctor are also overload provided t
 basis of argument passed in constructor . whenever we assign name of method same  as class name without any return type we called constructor overloading.	
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-**Week 3 : 14 February to 18 February **
+**Week 3 : 14 February to 18 February**
 
 - I was assigned an mini project in which different  items are to be included and were to be sold and calculate profit and loss and also generate total invoice of inventory of item which are left. I made it using switch state ment  , looping statements etc. and learn how to use these statements.
 - In last 2 days of week we learn about the concept of inheritance . inheritance means take something which is aleredy made. Throught this we can drive class called child class form parent class 
@@ -102,17 +102,16 @@ Then swings in java , swing built on foundation of AWT. Swing tool kit include r
 Then we taught about database management . we brifly introduce with SQL(structured query language) server .  we were taught  about how to handle or manipulate data in SQL database contain one or more tab handle query insert delet show etc.
 Also taught about database connectivity, given code to connect our GUI made in JAVA with the tables made in our backend i.e. SQL server, made several basic program to check the user name and password stord in tables if they matched with the stored one success tab showed.
 
-
-**WEEK 8:- 21march to 25 march **
+**WEEK 8:- 21march to 25 march**
 
 In this week some more database concept were to be coverd , like foreign key it is the key in one table  which identify row in another table it use to establish ink in other ways.
 Also taught about other constrants of SQLserver various keys oprations components etc. 
 
-**WEEK 9:- 28march to 1 april **
+**WEEK 9:- 28march to 1 april**
 
 This week HTML was taught 
 
-**4 APRIL  to 29 april **
+**4 APRIL  to 29 april**
 
 After 4th of april along side with our daily learning we got some assignment attached with it .
 Assignment covers mini project which will test our concepts of java along with is our menter show us some of the work of company .
